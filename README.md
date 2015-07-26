@@ -19,6 +19,7 @@
         .use(middleware);
 
 可自定义需要压缩的文件类型。
+
     var tianma = require('tianma');
 
     tianma(8080)
